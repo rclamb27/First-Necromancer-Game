@@ -6,8 +6,9 @@
 <p align="left">  
 
 # Storyline  
-* YAS
+A single person thousands of years ago discovered and harnessed death magic and became the first Necromancer.
+
 # Gameplay
 * NO
 # How / What to Contribute
-*Mabye
+* Mabye
