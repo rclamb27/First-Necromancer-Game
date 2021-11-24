@@ -5,6 +5,9 @@
 </p>
 <p align="left">  
 
- # Storyline / Gameplay
- 
- # How / What to Contribute
+# Storyline  
+* YAS
+# Gameplay
+* NO
+# How / What to Contribute
+*Mabye
