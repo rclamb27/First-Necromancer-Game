@@ -10,5 +10,11 @@ A single person thousands of years ago discovered and harnessed death magic and 
 # Gameplay
 So far its a basic hack and slash where W A S D are the movement keys and space bar is to attack at the moment. In the future, may want to add a jumping option/animation and also add more diverse monsters as level are added. Also may give the character more abilites as they progress, as he regains some of his power from when he was alive.
 # How to Contribute
- 
- # What to Contribute
+* Needs to be coded in C# 
+* Art needs to be pixelated /similar to art already provided
+* Create a pull request and I will review it
+* Give a concise explanation of what you are adding or fixing
+# What to Contribute / or things needed
+* A Title game screen
+* More levels
+* Better enemy AI and enemy
