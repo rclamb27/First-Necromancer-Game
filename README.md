@@ -14,6 +14,7 @@ So far its a basic hack and slash where W A S D are the movement keys and space 
 * Art needs to be pixelated /similar to art already provided
 * Create a pull request and I will review it
 * Give a concise explanation of what you are adding or fixing
+* Run through Unity version 2019.4.22f1
 # What to Contribute / or things needed
 * A Title game screen
 * More levels
