@@ -9,9 +9,14 @@ public class PlayerCombat : MonoBehaviour
     public Transform attackPoint;
     public float attackRange = 0.5f;
     public LayerMask enemyLayers;
+
+    [SerializeField]
+    [Tooltip("Used to set which key is to attack.")]
+    private KeyCode m_AttackKey = KeyCode.E;
+
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Space))
+        if(Input.GetKeyDown(m_AttackKey))
         {
             Attack();
         }
